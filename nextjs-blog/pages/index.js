@@ -11,21 +11,21 @@ export default function Home() {
 
       <main>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Dimitri's Blog!</a>
+          Welcome to <a href="https://nextjs.org">Dimitri's Porfolio Page!</a>
         </h1>
 
         <p className={styles.description}>
-          Get started by <code>reading some of my cool blogs</code>
+          Get started by <code>reading some of my cool Projects</code>
         </p>
 
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
-            <h3>Blog 1 &rarr;</h3>
+            <h3>Project 1 &rarr;</h3>
             <p>Find in-depth information about Next.js features and API.</p>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
-            <h3>Blog 2 &rarr;</h3>
+            <h3>Project 2 &rarr;</h3>
             <p>Learn about Next.js in an interactive course with quizzes!</p>
           </a>
 
@@ -33,7 +33,7 @@ export default function Home() {
             href="https://github.com/vercel/next.js/tree/master/examples"
             className={styles.card}
           >
-            <h3>Blog 3 &rarr;</h3>
+            <h3>Project 3 &rarr;</h3>
             <p>Discover and deploy boilerplate example Next.js projects.</p>
           </a>
 
@@ -41,7 +41,7 @@ export default function Home() {
             href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
           >
-            <h3>Blog 4 &rarr;</h3>
+            <h3>Project 4 &rarr;</h3>
             <p>
               Instantly deploy your Next.js site to a public URL with Vercel.
             </p>
